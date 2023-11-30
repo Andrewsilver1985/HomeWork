@@ -1,0 +1,15 @@
+D:\Geek\HomeWork\HomeWork4\bin\Debug\net8.0\HomeWork4.exe
+D:\Geek\HomeWork\HomeWork4\bin\Debug\net8.0\HomeWork4.deps.json
+D:\Geek\HomeWork\HomeWork4\bin\Debug\net8.0\HomeWork4.runtimeconfig.json
+D:\Geek\HomeWork\HomeWork4\bin\Debug\net8.0\HomeWork4.dll
+D:\Geek\HomeWork\HomeWork4\bin\Debug\net8.0\HomeWork4.pdb
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.AssemblyInfoInputs.cache
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.AssemblyInfo.cs
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.csproj.CoreCompileInputs.cache
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.sourcelink.json
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.dll
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\refint\HomeWork4.dll
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.pdb
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\HomeWork4.genruntimeconfig.cache
+D:\Geek\HomeWork\HomeWork4\obj\Debug\net8.0\ref\HomeWork4.dll
